@@ -1,7 +1,7 @@
 import utilStyles from '../styles/utils.module.css'
 import styles from '../styles/error.module.css'
 
-export default function Custom404() {
+export default function Custom500() {
   return (
     <div className={styles.container}>
       <div className={styles.emoji}>🖥</div>
