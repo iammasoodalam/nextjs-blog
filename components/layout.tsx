@@ -24,7 +24,7 @@ export default function Layout({
         />
         <meta
           property="og:image"
-          content="./pulic/images/logo.svg"
+          content="/images/logo.svg"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
