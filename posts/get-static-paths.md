@@ -17,3 +17,4 @@ export async function getStaticPaths() {
 `getStaticPaths` must be used with `getStaticProps`. You cannot use it with `getServerSideProps`.
 
 The `getStaticPaths` API reference covers all parameters and props that can be used with `getStaticPaths`.
+<h2>Author: Noor-e-Alam</h2>
