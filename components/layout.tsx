@@ -72,6 +72,9 @@ export default function Layout({
           </Link>
         </div>
       )}
+      <footer className={styles.footer}>
+        &copy; 2017-{new Date().getFullYear()} | iammasoodalam.com
+      </footer>
     </div>
   )
 }
