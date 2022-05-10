@@ -24,7 +24,7 @@ export default function Layout({
         />
         <meta
           property="og:image"
-          content="/images/logo.svg"
+          content="/images/Logo.png"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
@@ -68,7 +68,7 @@ export default function Layout({
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">
-            <a>← Back to home</a>
+            <a>◀️ Back to home</a>
           </Link>
         </div>
       )}
