@@ -22,7 +22,7 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>My name is Mohd Masood Alam, I am pursuing Computer Engineering from Aligarh Muslim University. You can contact me on <a href="//twitter.com/iammasoodalam">Twitter</a>.</p>
-
+        <p>Checkout beta testing page <a href="http://beta.iammasoodalam.com">here</a>.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
